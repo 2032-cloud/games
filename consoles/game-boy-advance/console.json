@@ -2,6 +2,10 @@
 	"name": "Game Boy Advance",
 	"description": "A handheld game console developed and marketed by Nintendo",
 	"valid_save_sizes": [
+		512,
+		8192,
+		32768,
+		65536,
 		131072
 	]
 }

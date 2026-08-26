@@ -24,7 +24,7 @@ Slugs must be lowercase kebab-case (`^[a-z0-9]+(-[a-z0-9]+)*$`).
 {
   "name": "Game Boy Advance",
   "description": "One or two sentences.",
-  "valid_save_sizes": [8192, 32768, 65536, 131072],
+  "valid_save_sizes": [8192, 32768, 65536, 131072]
 }
 ```
 
@@ -35,7 +35,7 @@ Slugs must be lowercase kebab-case (`^[a-z0-9]+(-[a-z0-9]+)*$`).
 ```jsonc
 {
   "name": "Mother 3",
-  "description": "One or two sentences.",
+  "description": "One or two sentences."
 }
 ```
 
