@@ -19,6 +19,12 @@ async function hashFile(p) {
 	return createHash("sha256").update(content).digest("hex");
 }
 
+async function loadArt(p) {
+	if (!(await exists(p))) return null;
+	const content = await readFile(p);
+	return { hash: createHash("sha256").update(content).digest("hex"), data_base64: content.toString("base64") };
+}
+
 async function loadConsole(slug) {
 	const dir = path.join(ROOT, slug);
 	const meta = JSON.parse(await readFile(path.join(dir, "console.json"), "utf8"));
@@ -35,6 +41,10 @@ async function loadConsole(slug) {
 				name: gameMeta.name,
 				description: gameMeta.description,
 				processing_script_hash: await hashFile(path.join(gameDir, "process.js")),
+				igdb_id: gameMeta.igdb_id ?? null,
+				igdb_skip: gameMeta.igdb_skip ?? false,
+				icon: await loadArt(path.join(gameDir, "icon.png")),
+				box_art: await loadArt(path.join(gameDir, "box_art.png")),
 			};
 		}),
 	);
@@ -45,6 +55,8 @@ async function loadConsole(slug) {
 		description: meta.description,
 		valid_save_sizes: meta.valid_save_sizes,
 		games,
+		icon: await loadArt(path.join(dir, "icon.png")),
+		box_art: await loadArt(path.join(dir, "box_art.png")),
 	};
 }
 
