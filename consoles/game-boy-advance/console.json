@@ -1,5 +1,7 @@
 {
 	"name": "Game Boy Advance",
-	"description": "Nintendo handheld released in 2001. Cartridge saves are raw flash/SRAM dumps.",
-	"valid_save_sizes": [8192, 32768, 65536, 131072]
+	"description": "A handheld game console developed and marketed by Nintendo",
+	"valid_save_sizes": [
+		131072
+	]
 }
