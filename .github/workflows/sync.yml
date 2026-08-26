@@ -1,0 +1,19 @@
+name: Sync to 2032
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    environment: Deploy
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node sync.mjs
+        env:
+          SYNC_URL: https://2032.cloud/internal/sync/games
+          GAMES_SYNC_SECRET: ${{ secrets.GAMES_SYNC_SECRET }}
