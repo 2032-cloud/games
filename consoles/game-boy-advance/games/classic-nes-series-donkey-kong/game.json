@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "Classic NES Series: Donkey Kong", "region": "USA", "language": "en" },
+		{ "name": "NES Classics: Donkey Kong", "region": "EUR", "language": "en" },
+		{ "name": "Famicom Mini: Donkey Kong", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "JPN"
+}

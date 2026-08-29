@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "The Wild", "region": "USA,EUR", "language": "en" },
+		{ "name": "Tierisch Wild", "region": "EUR", "language": "de" },
+		{ "name": "Salvaje (The Wild)", "region": "EUR", "language": "es" }
+	],
+	"native_region": "USA"
+}

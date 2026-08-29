@@ -1,0 +1,11 @@
+{
+	"titles": [
+		{ "name": "The Lord of the Rings: The Third Age", "region": "USA,EUR", "language": "en" },
+		{ "name": "Le Seigneur des Anneaux: Le Tiers Age", "region": "EUR", "language": "fr" },
+		{ "name": "Der Herr der Ringe: Das Dritte Zeitalter", "region": "EUR", "language": "de" },
+		{ "name": "El Señor de los Anillos: La Tercera Edad", "region": "EUR", "language": "es" },
+		{ "name": "Il Signore degli Anelli: La Terza Era", "region": "EUR", "language": "it" },
+		{ "name": "The Lord of the Rings: Nakatsukuni Daisanki", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "USA"
+}

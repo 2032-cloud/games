@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "Classic NES Series: Excitebike", "region": "USA", "language": "en" },
+		{ "name": "NES Classics: Excitebike", "region": "EUR", "language": "en" },
+		{ "name": "Famicom Mini: Excitebike", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "JPN"
+}

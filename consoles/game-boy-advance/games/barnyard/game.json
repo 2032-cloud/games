@@ -1,0 +1,10 @@
+{
+	"titles": [
+		{ "name": "Barnyard", "region": "USA", "language": "en" },
+		{ "name": "Nickelodeon Barnyard", "region": "EUR", "language": "en" },
+		{ "name": "La Ferme en Folie", "region": "EUR", "language": "fr" },
+		{ "name": "El Corral", "region": "EUR", "language": "es" },
+		{ "name": "Barnyard Il Cortile", "region": "EUR", "language": "it" }
+	],
+	"native_region": "USA"
+}

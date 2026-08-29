@@ -1,0 +1,9 @@
+{
+	"titles": [
+		{ "name": "Tak 2: The Staff of Dreams", "region": "USA,EUR", "language": "en" },
+		{ "name": "Tak 2: Le Sceptre des Rêves", "region": "EUR", "language": "fr" },
+		{ "name": "Tak 2: Der Stab der Träume", "region": "EUR", "language": "de" },
+		{ "name": "Tak 2: Lo Scettro dei Sogni", "region": "EUR", "language": "it" }
+	],
+	"native_region": "USA"
+}

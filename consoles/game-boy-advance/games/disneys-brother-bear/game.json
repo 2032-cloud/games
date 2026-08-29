@@ -1,0 +1,10 @@
+{
+	"titles": [
+		{ "name": "Disney's Brother Bear", "region": "USA,EUR", "language": "en" },
+		{ "name": "Disney's Frère des Ours", "region": "EUR", "language": "fr" },
+		{ "name": "Disney's Bären Brüder", "region": "EUR", "language": "de" },
+		{ "name": "Disney Hermano Oso", "region": "EUR", "language": "es" },
+		{ "name": "Disney Koda Fratello Orso", "region": "EUR", "language": "it" }
+	],
+	"native_region": "USA"
+}

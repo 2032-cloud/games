@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "Scooby-Doo! Mystery Mayhem", "region": "USA,EUR", "language": "en" },
+		{ "name": "Scooby-Doo! Le Livre des Ténèbres", "region": "EUR", "language": "fr" },
+		{ "name": "Scooby-Doo! Fluch der Folianten", "region": "EUR", "language": "de" }
+	],
+	"native_region": "USA"
+}

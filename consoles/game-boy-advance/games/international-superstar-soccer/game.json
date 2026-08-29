@@ -1,0 +1,7 @@
+{
+	"titles": [
+		{ "name": "International Superstar Soccer", "region": "EUR", "language": "en" },
+		{ "name": "Jikkyou World Soccer Pocket", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "USA"
+}

@@ -1,0 +1,7 @@
+{
+	"titles": [
+		{ "name": "Top Gear Rally", "region": "USA,EUR", "language": "en" },
+		{ "name": "Top Gear Rally SP", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "USA"
+}

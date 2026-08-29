@@ -1,0 +1,7 @@
+{
+	"titles": [
+		{ "name": "Zoids Legacy", "region": "USA", "language": "en" },
+		{ "name": "Zoids Saga II", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "USA"
+}

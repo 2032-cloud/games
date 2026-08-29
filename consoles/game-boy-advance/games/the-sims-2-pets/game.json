@@ -1,0 +1,10 @@
+{
+	"titles": [
+		{ "name": "The Sims 2: Pets", "region": "USA,EUR", "language": "en" },
+		{ "name": "Les Sims 2: Animaux & Cie", "region": "EUR", "language": "fr" },
+		{ "name": "Die Sims 2: Haustiere", "region": "EUR", "language": "de" },
+		{ "name": "Los Sims 2: Mascotas", "region": "EUR", "language": "es" },
+		{ "name": "De Sims 2: Huisdieren", "region": "EUR", "language": "nl" }
+	],
+	"native_region": "USA"
+}

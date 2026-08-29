@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "Disney's Princess Royal Adventure", "region": "USA,EUR", "language": "en" },
+		{ "name": "Disney Princesses: Aventures Enchantées", "region": "EUR", "language": "fr" },
+		{ "name": "Disney Prinzessinnen: Königliches Abenteuer", "region": "EUR", "language": "de" }
+	],
+	"native_region": "USA"
+}

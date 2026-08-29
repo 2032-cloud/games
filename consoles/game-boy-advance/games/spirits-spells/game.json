@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "Spirits & Spells", "region": "USA", "language": "en" },
+		{ "name": "Castleween", "region": "EUR", "language": "en" },
+		{ "name": "Mahou no Pumpkin", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "USA"
+}

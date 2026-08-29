@@ -1,0 +1,10 @@
+{
+	"titles": [
+		{ "name": "Meet the Robinsons", "region": "USA,EUR", "language": "en" },
+		{ "name": "Bienvenue chez les Robinson", "region": "EUR", "language": "fr" },
+		{ "name": "Triff Die Robinsons", "region": "EUR", "language": "de" },
+		{ "name": "Descubriendo a los Robinsons", "region": "EUR", "language": "es" },
+		{ "name": "I Robinson: Una Famiglia Spaziale", "region": "EUR", "language": "it" }
+	],
+	"native_region": "USA"
+}

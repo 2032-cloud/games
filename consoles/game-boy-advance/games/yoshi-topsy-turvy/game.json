@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "Yoshi Topsy-Turvy", "region": "USA", "language": "en" },
+		{ "name": "Yoshi's Universal Gravitation", "region": "EUR", "language": "en" },
+		{ "name": "Yoshi no Banyuu Inryoku", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "JPN"
+}

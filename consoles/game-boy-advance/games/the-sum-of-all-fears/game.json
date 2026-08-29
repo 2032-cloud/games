@@ -1,0 +1,9 @@
+{
+	"titles": [
+		{ "name": "The Sum of All Fears", "region": "USA,EUR", "language": "en" },
+		{ "name": "La Somme de Toutes les Peurs", "region": "EUR", "language": "fr" },
+		{ "name": "Der Anschlag", "region": "EUR", "language": "de" },
+		{ "name": "The Sum of All Fears (Pánico Nuclear)", "region": "EUR", "language": "es" }
+	],
+	"native_region": "USA"
+}

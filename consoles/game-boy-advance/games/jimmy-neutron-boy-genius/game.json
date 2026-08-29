@@ -1,0 +1,9 @@
+{
+	"titles": [
+		{ "name": "Jimmy Neutron: Boy Genius", "region": "USA,EUR", "language": "en" },
+		{ "name": "Jimmy Neutron un Garçon Génial", "region": "EUR", "language": "fr" },
+		{ "name": "Jimmy Neutron der Mutige Erfinder", "region": "EUR", "language": "de" },
+		{ "name": "Jimmy Neutron: El Niño Inventor", "region": "EUR", "language": "es" }
+	],
+	"native_region": "USA"
+}

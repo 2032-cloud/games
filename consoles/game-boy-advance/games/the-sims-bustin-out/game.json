@@ -1,0 +1,11 @@
+{
+	"titles": [
+		{ "name": "The Sims Bustin' Out", "region": "USA,EUR", "language": "en" },
+		{ "name": "Les Sims: Permis de Sortir", "region": "EUR", "language": "fr" },
+		{ "name": "Die Sims: Brechen Aus", "region": "EUR", "language": "de" },
+		{ "name": "Los Sims: Toman la Calle", "region": "EUR", "language": "es" },
+		{ "name": "The Sims: Fuori Tutti!", "region": "EUR", "language": "it" },
+		{ "name": "The Sims: Erop Uit!", "region": "EUR", "language": "nl" }
+	],
+	"native_region": "USA"
+}

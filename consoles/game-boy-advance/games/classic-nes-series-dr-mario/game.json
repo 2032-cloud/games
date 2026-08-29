@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "Classic NES Series: Dr. Mario", "region": "USA", "language": "en" },
+		{ "name": "NES Classics: Dr. Mario", "region": "EUR", "language": "en" },
+		{ "name": "Famicom Mini: Dr. Mario", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "JPN"
+}

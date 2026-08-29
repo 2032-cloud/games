@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "Donald Duck Advance", "region": "USA,EUR", "language": "en" },
+		{ "name": "Paperino Advance", "region": "EUR", "language": "fr" },
+		{ "name": "Pato Donald Advance", "region": "EUR", "language": "es" }
+	],
+	"native_region": "USA"
+}

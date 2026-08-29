@@ -1,0 +1,11 @@
+{
+	"titles": [
+		{ "name": "Pokémon Sapphire", "region": "USA,EUR,AUS", "language": "en" },
+		{ "name": "Pokémon: Version Saphir", "region": "EUR", "language": "fr" },
+		{ "name": "Pokémon: Saphir-Edition", "region": "EUR", "language": "de" },
+		{ "name": "Pokémon: Edición Zafiro", "region": "EUR", "language": "es" },
+		{ "name": "Pokémon: Versione Zaffiro", "region": "EUR", "language": "it" },
+		{ "name": "Pocket Monsters Sapphire", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "JPN"
+}

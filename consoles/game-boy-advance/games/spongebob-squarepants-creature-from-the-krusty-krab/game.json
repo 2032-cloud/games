@@ -1,0 +1,9 @@
+{
+	"titles": [
+		{ "name": "SpongeBob SquarePants: Creature from the Krusty Krab", "region": "USA,EUR", "language": "en" },
+		{ "name": "Bob l'éponge: La Creature du Crabe Croustillant", "region": "EUR", "language": "fr" },
+		{ "name": "SpongeBob Schwammkopf: Die Kreatur aus der Krossen Krabbe", "region": "EUR", "language": "de" },
+		{ "name": "Bob Esponja: La Criatura del Krustáceo Krujiente", "region": "EUR", "language": "es" }
+	],
+	"native_region": "USA"
+}

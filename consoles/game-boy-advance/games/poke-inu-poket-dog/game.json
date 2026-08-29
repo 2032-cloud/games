@@ -1,0 +1,7 @@
+{
+	"titles": [
+		{ "name": "Pocket Dogs", "region": "USA", "language": "en" },
+		{ "name": "Poke Inu: Poket Dog", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "USA"
+}

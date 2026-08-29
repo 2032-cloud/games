@@ -1,0 +1,11 @@
+{
+	"titles": [
+		{ "name": "Who Wants to Be a Millionaire?", "region": "USA,EUR", "language": "en" },
+		{ "name": "Qui Veut Gagner des Millions", "region": "EUR", "language": "fr" },
+		{ "name": "Wer Wird Millionar", "region": "EUR", "language": "de" },
+		{ "name": "Quien Quiere Ser Millonario", "region": "EUR", "language": "es" },
+		{ "name": "Chi Vuol Essere Milionario", "region": "EUR", "language": "it" },
+		{ "name": "Weekend Miljonairs", "region": "EUR", "language": "nl" }
+	],
+	"native_region": "EUR"
+}

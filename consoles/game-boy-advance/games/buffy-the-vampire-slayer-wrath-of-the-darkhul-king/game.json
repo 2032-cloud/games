@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "Buffy the Vampire Slayer: Wrath of the Darkhul King", "region": "USA,EUR", "language": "en" },
+		{ "name": "Buffy Contre les Vampires: La Colère de Darkhul", "region": "EUR", "language": "fr" },
+		{ "name": "Buffy im Bann der Daemonen: Koenig Darkhuls Zorn", "region": "EUR", "language": "de" }
+	],
+	"native_region": "USA"
+}

@@ -1,0 +1,7 @@
+{
+	"titles": [
+		{ "name": "The Legend of Zelda: A Link to the Past", "region": "USA,EUR", "language": "en" },
+		{ "name": "Zelda no Densetsu: Kamigami no Triforce & Yotsu no Tsurugi", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "USA"
+}

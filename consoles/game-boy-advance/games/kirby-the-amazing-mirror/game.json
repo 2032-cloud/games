@@ -1,0 +1,7 @@
+{
+	"titles": [
+		{ "name": "Kirby & the Amazing Mirror", "region": "USA,EUR,AUS", "language": "en" },
+		{ "name": "Hoshi no Kirby: Kagami no Daimeikyuu", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "JPN"
+}

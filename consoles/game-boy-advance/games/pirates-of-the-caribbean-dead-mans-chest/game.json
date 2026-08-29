@@ -1,0 +1,9 @@
+{
+	"titles": [
+		{ "name": "Pirates of the Caribbean: Dead Man's Chest", "region": "USA,EUR", "language": "en" },
+		{ "name": "Pirates Des Caraïbes: Le Secret du Coffre Maudit", "region": "EUR", "language": "fr" },
+		{ "name": "Pirates of the Caribbean: Fluch der Karibik 2", "region": "EUR", "language": "de" },
+		{ "name": "Piratas del Caribe: El Cofre del Hombre Muerto", "region": "EUR", "language": "es" }
+	],
+	"native_region": "USA"
+}

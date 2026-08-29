@@ -1,0 +1,10 @@
+{
+	"titles": [
+		{ "name": "Let's Ride! Dreamer", "region": "USA", "language": "en" },
+		{ "name": "Horse & Pony: Let's Ride 2", "region": "EUR", "language": "en" },
+		{ "name": "Pippa Funnell 2", "region": "EUR", "language": "fr" },
+		{ "name": "Pferd & Pony: Lass Uns Reiten 2", "region": "EUR", "language": "de" },
+		{ "name": "Paard & Pony: Paard in Galop", "region": "EUR", "language": "nl" }
+	],
+	"native_region": "EUR"
+}

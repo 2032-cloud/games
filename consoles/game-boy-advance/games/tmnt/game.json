@@ -1,0 +1,9 @@
+{
+	"titles": [
+		{ "name": "TMNT", "region": "USA,EUR", "language": "en" },
+		{ "name": "TMNT: Les Tortues Ninja", "region": "EUR", "language": "fr" },
+		{ "name": "TMNT: Tortugas Ninja Jóvenes Mutantes", "region": "EUR", "language": "es" },
+		{ "name": "TMNT: Tartarughe Ninja", "region": "EUR", "language": "it" }
+	],
+	"native_region": "USA"
+}

@@ -1,0 +1,10 @@
+{
+	"titles": [
+		{ "name": "Paws & Claws: Pet Resort", "region": "USA", "language": "en" },
+		{ "name": "My Pet Hotel", "region": "EUR", "language": "en" },
+		{ "name": "Meine Tierpension", "region": "EUR", "language": "de" },
+		{ "name": "Léa Passion Vétérinaire", "region": "EUR", "language": "fr" },
+		{ "name": "Mijn Dierenpension: Huisdieren logeren graag bij jou!", "region": "EUR", "language": "nl" }
+	],
+	"native_region": "USA"
+}

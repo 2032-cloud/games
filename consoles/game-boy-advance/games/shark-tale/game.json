@@ -1,0 +1,9 @@
+{
+	"titles": [
+		{ "name": "Shark Tale", "region": "USA,EUR,JPN", "language": "en" },
+		{ "name": "Gang De Requins", "region": "EUR", "language": "fr" },
+		{ "name": "Große Haie-Kleine Fische", "region": "EUR", "language": "de" },
+		{ "name": "El Espantatiburones", "region": "EUR", "language": "es" }
+	],
+	"native_region": "AUS"
+}

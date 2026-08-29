@@ -1,0 +1,9 @@
+{
+	"titles": [
+		{ "name": "X-Men: The Official Game", "region": "USA,EUR", "language": "en" },
+		{ "name": "X-Men: Le Jeu Officiel", "region": "EUR", "language": "fr" },
+		{ "name": "X-Men: El Videojuego Oficial", "region": "EUR", "language": "es" },
+		{ "name": "X-Men: Il Gioco Ufficiale", "region": "EUR", "language": "it" }
+	],
+	"native_region": "USA"
+}

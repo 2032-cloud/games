@@ -1,0 +1,11 @@
+{
+	"titles": [
+		{ "name": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe", "region": "USA,EUR", "language": "en" },
+		{ "name": "Le Monde de Narnia Chapitre 1: Le Lion, la Sorcière Blanche et l'Armoire Magique", "region": "EUR", "language": "fr" },
+		{ "name": "Die Chroniken von Narnia: Der König von Narnia", "region": "EUR", "language": "de" },
+		{ "name": "Las Crónicas de Narnia: El León, la Bruja y El Ropero", "region": "EUR", "language": "es" },
+		{ "name": "Le Cronache Di Narnia: Il Leone, La Strega e L'armadio", "region": "EUR", "language": "it" },
+		{ "name": "De Kronieken van Narnia: De leeuw, de heks en de kleerkast", "region": "EUR", "language": "nl" }
+	],
+	"native_region": "USA"
+}

@@ -1,0 +1,10 @@
+{
+	"titles": [
+		{ "name": "Hello Kitty: Happy Party Pals", "region": "USA,EUR", "language": "en" },
+		{ "name": "Hello Kitty: C'est la Fête!", "region": "EUR", "language": "fr" },
+		{ "name": "Hello Kitty: Der Große Party-Spaß", "region": "EUR", "language": "de" },
+		{ "name": "Hello Kitty: Feliz Fiesta de Amigos", "region": "EUR", "language": "es" },
+		{ "name": "Hello Kitty: Happy Party", "region": "EUR", "language": "it" }
+	],
+	"native_region": "USA"
+}

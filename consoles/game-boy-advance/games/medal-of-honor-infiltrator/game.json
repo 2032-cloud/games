@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "Medal of Honor: Infiltrator", "region": "USA,EUR", "language": "en" },
+		{ "name": "Medal of Honor: Espionnage", "region": "EUR", "language": "fr" },
+		{ "name": "Medal of Honor Advance", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "USA"
+}

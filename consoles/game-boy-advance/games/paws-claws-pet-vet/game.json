@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "Paws & Claws: Pet Vet", "region": "USA", "language": "en" },
+		{ "name": "Meine Tierarztpraxis", "region": "EUR", "language": "de" },
+		{ "name": "Mijn Dierenpraktijk", "region": "EUR", "language": "nl" }
+	],
+	"native_region": "USA"
+}

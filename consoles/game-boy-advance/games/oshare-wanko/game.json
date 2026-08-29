@@ -1,0 +1,7 @@
+{
+	"titles": [
+		{ "name": "Dogz Fashion", "region": "USA", "language": "en" },
+		{ "name": "Oshare Wanko", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "USA"
+}

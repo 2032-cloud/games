@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "Crash Bandicoot: The Huge Adventure", "region": "USA", "language": "en" },
+		{ "name": "Crash Bandicoot XS", "region": "EUR", "language": "en" },
+		{ "name": "Crash Bandicoot Advance", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "USA"
+}

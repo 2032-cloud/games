@@ -1,0 +1,12 @@
+{
+	"titles": [
+		{ "name": "Harry Potter and the Chamber of Secrets", "region": "USA,EUR", "language": "en" },
+		{ "name": "Harry Potter et la Chambre des Secrets", "region": "EUR", "language": "fr" },
+		{ "name": "Harry Potter und die Kammer des Schreckens", "region": "EUR", "language": "de" },
+		{ "name": "Harry Potter y la Cámara Secreta", "region": "EUR", "language": "es" },
+		{ "name": "Harry Potter e la Camera dei Segreti", "region": "EUR", "language": "it" },
+		{ "name": "Harry Potter en de Geheime Kamer", "region": "EUR", "language": "nl" },
+		{ "name": "Harry Potter to Himitsu no Heya", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "USA"
+}

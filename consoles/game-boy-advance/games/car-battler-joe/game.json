@@ -1,0 +1,7 @@
+{
+	"titles": [
+		{ "name": "Car Battler Joe", "region": "USA", "language": "en" },
+		{ "name": "Gekitou! Car Battler Go!!", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "JPN"
+}

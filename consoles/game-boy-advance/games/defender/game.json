@@ -1,0 +1,7 @@
+{
+	"titles": [
+		{ "name": "Defender", "region": "USA", "language": "en" },
+		{ "name": "Defender: For All Mankind", "region": "EUR", "language": "en" }
+	],
+	"native_region": "USA"
+}

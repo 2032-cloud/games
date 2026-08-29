@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "My Animal Centre in Africa", "region": "EUR", "language": "en" },
+		{ "name": "SOS Animaux: Mission en Afrique", "region": "EUR", "language": "fr" },
+		{ "name": "Meine Tierklinik in Africa", "region": "EUR", "language": "de" }
+	],
+	"native_region": "EUR"
+}

@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "ESPN International Winter Sports 2002", "region": "USA", "language": "en" },
+		{ "name": "ESPN International Winter Sports", "region": "EUR", "language": "en" },
+		{ "name": "Hyper Sports 2002 Winter", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "USA"
+}

@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "Disney's Kim Possible: Revenge of Monkey Fist", "region": "USA", "language": "en" },
+		{ "name": "Disney's Kim Possible", "region": "EUR", "language": "en" },
+		{ "name": "Disney's Kim Possible: Monkey Fist's Rache", "region": "EUR", "language": "de" }
+	],
+	"native_region": "USA"
+}

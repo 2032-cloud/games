@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "Jurassic Park III: Island Attack", "region": "USA", "language": "en" },
+		{ "name": "Jurassic Park III: Dino Attack", "region": "EUR", "language": "en" },
+		{ "name": "Jurassic Park III: Advanced Action", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "USA"
+}

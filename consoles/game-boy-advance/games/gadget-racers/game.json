@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "Gadget Racers", "region": "USA", "language": "en" },
+		{ "name": "Penny Racers", "region": "EUR", "language": "en" },
+		{ "name": "Choro Q Advance", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "USA"
+}

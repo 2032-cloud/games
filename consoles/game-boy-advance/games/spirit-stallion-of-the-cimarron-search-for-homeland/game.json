@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "Spirit: Stallion of the Cimarron - Search For Homeland", "region": "USA,EUR", "language": "en" },
+		{ "name": "Spirit: L'Etalon des Plaines - A la Recherche de la Terre Natale", "region": "EUR", "language": "fr" },
+		{ "name": "Spirit: Der Wilde Mustang - Auf der Suche nach Homeland", "region": "EUR", "language": "de" }
+	],
+	"native_region": "USA"
+}

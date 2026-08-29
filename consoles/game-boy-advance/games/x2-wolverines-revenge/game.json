@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "X2: Wolverine's Revenge", "region": "USA", "language": "en" },
+		{ "name": "X-Men 2: Wolverine's Revenge", "region": "EUR", "language": "en" },
+		{ "name": "X-Men 2: La Vengeance de Wolverine", "region": "EUR", "language": "fr" }
+	],
+	"native_region": "USA"
+}

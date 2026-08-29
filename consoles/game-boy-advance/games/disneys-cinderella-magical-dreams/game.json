@@ -1,0 +1,9 @@
+{
+	"titles": [
+		{ "name": "Disney's Cinderella: Magical Dreams", "region": "USA,EUR", "language": "en" },
+		{ "name": "Disney Cendrillon: Le Bal Enchanté", "region": "EUR", "language": "fr" },
+		{ "name": "Disneys Cinderella: Zauberhafte Träume", "region": "EUR", "language": "es" },
+		{ "name": "Disney Cenerentola: Il Sogno si Avvera!", "region": "EUR", "language": "it" }
+	],
+	"native_region": "USA"
+}

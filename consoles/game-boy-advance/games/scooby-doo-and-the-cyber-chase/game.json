@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "Scooby-Doo and the Cyber Chase", "region": "USA,EUR", "language": "en" },
+		{ "name": "Scooby-Doo et la Cybertraque", "region": "EUR", "language": "fr" },
+		{ "name": "Scooby-Doo und die Cyber-Jagd", "region": "EUR", "language": "de" }
+	],
+	"native_region": "USA"
+}

@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "Barbie Software - Horse Adventures: Blue Ribbon Race", "region": "USA", "language": "en" },
+		{ "name": "Barbie Horse Adventures: The Big Race", "region": "EUR", "language": "en" },
+		{ "name": "Barbie Pferdeabenteuer: Das große Reitturnier", "region": "EUR", "language": "de" }
+	],
+	"native_region": "USA"
+}

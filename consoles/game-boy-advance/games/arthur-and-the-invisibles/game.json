@@ -1,0 +1,9 @@
+{
+	"titles": [
+		{ "name": "Arthur and the Invisibles", "region": "USA", "language": "en" },
+		{ "name": "Arthur and The Minimoys", "region": "EUR", "language": "en" },
+		{ "name": "Arthur et Les Minimoys", "region": "EUR", "language": "fr" },
+		{ "name": "Arthur e il Popolo dei Minimei", "region": "EUR", "language": "it" }
+	],
+	"native_region": "USA"
+}

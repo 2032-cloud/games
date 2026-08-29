@@ -1,0 +1,9 @@
+{
+	"titles": [
+		{ "name": "SpongeBob SquarePants: Lights, Camera, Pants!", "region": "USA,EUR", "language": "en" },
+		{ "name": "Bob l'éponge: Silence On Tourne!", "region": "EUR", "language": "fr" },
+		{ "name": "SpongeBob Schwammkopf: Film Ab!", "region": "EUR", "language": "de" },
+		{ "name": "Bob Esponja: ¡Luces, Cámara, Esponja!", "region": "EUR", "language": "es" }
+	],
+	"native_region": "USA"
+}

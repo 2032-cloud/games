@@ -1,0 +1,11 @@
+{
+	"titles": [
+		{ "name": "Nicktoons: Battle for Volcano Island", "region": "USA", "language": "en" },
+		{ "name": "SpongeBob SquarePants and Friends: Battle for Volcano Island", "region": "EUR", "language": "en" },
+		{ "name": "Bob l'éponge et Ses Amis: Attaque sur l'île du Volcan", "region": "EUR", "language": "fr" },
+		{ "name": "SpongeBob und Seine Freunde: Schlacht um die Vulkaninsel", "region": "EUR", "language": "de" },
+		{ "name": "Bob Esponja y Amigos: Batalla por la Isla del Volcán", "region": "EUR", "language": "es" },
+		{ "name": "SpongeBob e i suoi Amici: Battaglia sull'Isola del Vulcano", "region": "EUR", "language": "it" }
+	],
+	"native_region": "USA"
+}

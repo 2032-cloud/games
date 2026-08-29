@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "AirForce Delta Storm", "region": "USA", "language": "en" },
+		{ "name": "Deadly Skies", "region": "EUR", "language": "en" },
+		{ "name": "Airforce Delta II", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "USA"
+}

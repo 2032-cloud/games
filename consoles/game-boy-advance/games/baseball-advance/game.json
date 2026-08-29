@@ -1,0 +1,7 @@
+{
+	"titles": [
+		{ "name": "Baseball Advance", "region": "USA", "language": "en" },
+		{ "name": "Greatest Nine", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "USA"
+}

@@ -1,0 +1,10 @@
+{
+	"titles": [
+		{ "name": "Monsters, Inc.", "region": "USA,EUR,JPN", "language": "en" },
+		{ "name": "Monstres & Cie", "region": "EUR", "language": "fr" },
+		{ "name": "Die Monster AG", "region": "EUR", "language": "de" },
+		{ "name": "Monstruos, S.A.", "region": "EUR", "language": "es" },
+		{ "name": "Monsters & Co.", "region": "EUR", "language": "it" }
+	],
+	"native_region": "USA"
+}

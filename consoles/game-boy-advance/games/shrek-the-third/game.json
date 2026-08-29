@@ -1,0 +1,11 @@
+{
+	"titles": [
+		{ "name": "Shrek the Third", "region": "USA,EUR", "language": "en" },
+		{ "name": "Shrek Le Troisieme", "region": "EUR", "language": "fr" },
+		{ "name": "Shrek der Dritte", "region": "EUR", "language": "de" },
+		{ "name": "Shrek Tercero", "region": "EUR", "language": "es" },
+		{ "name": "Shrek Terzo", "region": "EUR", "language": "it" },
+		{ "name": "Shrek de Derde", "region": "EUR", "language": "nl" }
+	],
+	"native_region": "USA"
+}

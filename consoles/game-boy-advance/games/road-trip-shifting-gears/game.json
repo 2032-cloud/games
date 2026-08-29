@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "Road Trip: Shifting Gears", "region": "USA", "language": "en" },
+		{ "name": "Gadget Racers", "region": "EUR", "language": "en" },
+		{ "name": "Choro Q Advance 2", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "JPN"
+}

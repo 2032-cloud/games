@@ -1,0 +1,9 @@
+{
+	"titles": [
+		{ "name": "Horsez", "region": "USA", "language": "en" },
+		{ "name": "Horse & Pony: My Stud Farm", "region": "EUR", "language": "en" },
+		{ "name": "Alexandra Ledermann: Aventures au Galop", "region": "EUR", "language": "fr" },
+		{ "name": "Pferd & Pony: Mein Gestüt", "region": "EUR", "language": "de" }
+	],
+	"native_region": "USA"
+}

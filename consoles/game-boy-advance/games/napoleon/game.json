@@ -1,0 +1,7 @@
+{
+	"titles": [
+		{ "name": "Napoleon: L'Aigle de Guerrre", "region": "EUR", "language": "fr" },
+		{ "name": "Napoleon", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "JPN"
+}

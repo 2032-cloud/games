@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "Dora the Explorer: Super Star Adventures", "region": "USA,EUR", "language": "en" },
+		{ "name": "Dora L'exploratrice - Les aventures des super étoiles", "region": "EUR", "language": "fr" },
+		{ "name": "Dora the Explorer: Superster Avonturen", "region": "EUR", "language": "nl" }
+	],
+	"native_region": "USA"
+}

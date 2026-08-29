@@ -1,0 +1,10 @@
+{
+	"titles": [
+		{ "name": "The Urbz: Sims in the City", "region": "USA,EUR", "language": "en" },
+		{ "name": "Les Urbz: Les Sims in the City", "region": "EUR", "language": "fr" },
+		{ "name": "Die Urbz: Sims in the City", "region": "EUR", "language": "de" },
+		{ "name": "Los Urbz: Sims en la Ciudad", "region": "EUR", "language": "es" },
+		{ "name": "De Urbz: Sims in the City", "region": "EUR", "language": "nl" }
+	],
+	"native_region": "USA"
+}

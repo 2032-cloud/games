@@ -1,0 +1,11 @@
+{
+	"titles": [
+		{ "name": "Harry Potter: Quidditch World Cup", "region": "USA,EUR,JPN", "language": "en" },
+		{ "name": "Harry Potter: Coupe du Monde de Quidditch", "region": "EUR", "language": "fr" },
+		{ "name": "Harry Potter: Quidditch Weltmeisterschaft", "region": "EUR", "language": "de" },
+		{ "name": "Harry Potter: Quidditch Copa del Mundo", "region": "EUR", "language": "es" },
+		{ "name": "Harry Potter: La Coppa del Mondo di Quidditch", "region": "EUR", "language": "it" },
+		{ "name": "Harry Potter: WK Zwerkbal", "region": "EUR", "language": "nl" }
+	],
+	"native_region": "USA"
+}

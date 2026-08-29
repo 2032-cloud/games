@@ -1,0 +1,7 @@
+{
+	"titles": [
+		{ "name": "Mario Pinball Land", "region": "USA", "language": "en" },
+		{ "name": "Super Mario Ball", "region": "EUR,JPN", "language": "en" }
+	],
+	"native_region": "JPN"
+}

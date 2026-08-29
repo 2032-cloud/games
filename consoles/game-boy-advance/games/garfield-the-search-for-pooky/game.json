@@ -1,0 +1,7 @@
+{
+	"titles": [
+		{ "name": "Garfield: The Search for Pooky", "region": "USA,EUR", "language": "en" },
+		{ "name": "Garfield a la Recherche de Pooky", "region": "EUR", "language": "fr" }
+	],
+	"native_region": "USA"
+}

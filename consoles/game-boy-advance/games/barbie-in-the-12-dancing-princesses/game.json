@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "Barbie in the 12 Dancing Princesses", "region": "USA,EUR", "language": "en" },
+		{ "name": "Barbie au Bal des 12 Dancing Princesses", "region": "EUR", "language": "fr" },
+		{ "name": "Barbie in die 12 Tanzenden Prinzessinnen", "region": "EUR", "language": "de" }
+	],
+	"native_region": "USA"
+}

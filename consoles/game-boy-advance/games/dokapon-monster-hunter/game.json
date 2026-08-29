@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "Dokapon: Monster Hunter", "region": "USA", "language": "en" },
+		{ "name": "Dokapon: Monster Hunter!", "region": "EUR", "language": "en" },
+		{ "name": "Dokapon-Q: Monster Hunter!", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "JPN"
+}

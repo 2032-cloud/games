@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "An American Tail: Fievel's Gold Rush", "region": "USA,EUR", "language": "en" },
+		{ "name": "Fievel et le Trésor Perdu", "region": "EUR", "language": "fr" },
+		{ "name": "Feivel der Mauswanderer und der Verborgene Schatz", "region": "EUR", "language": "de" }
+	],
+	"native_region": "USA"
+}

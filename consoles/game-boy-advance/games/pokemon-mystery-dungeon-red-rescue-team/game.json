@@ -1,0 +1,11 @@
+{
+	"titles": [
+		{ "name": "Pokémon Mystery Dungeon: Red Rescue Team", "region": "USA,EUR,AUS", "language": "en" },
+		{ "name": "Pokémon Donjon Mystère: Equipe de Secours Rouge", "region": "EUR", "language": "fr" },
+		{ "name": "Pokémon Mystery Dungeon: Team Rot", "region": "EUR", "language": "de" },
+		{ "name": "Pokémon Mundo Misterioso: Equipo de rescate Rojo", "region": "EUR", "language": "es" },
+		{ "name": "Pokémon Mystery Dungeon: Squadra Rossa", "region": "EUR", "language": "it" },
+		{ "name": "Pokémon Fushigi no Danjon Aka no Kyūjotai", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "JPN"
+}

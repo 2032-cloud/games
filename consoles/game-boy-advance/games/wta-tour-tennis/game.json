@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "WTA Tour Tennis", "region": "USA", "language": "en" },
+		{ "name": "Pro Tennis WTA Tour", "region": "EUR", "language": "en" },
+		{ "name": "WTA Tour Tennis Pocket", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "USA"
+}

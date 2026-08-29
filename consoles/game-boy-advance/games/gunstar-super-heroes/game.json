@@ -1,0 +1,7 @@
+{
+	"titles": [
+		{ "name": "Gunstar Super Heroes", "region": "USA,JPN", "language": "en" },
+		{ "name": "Gunstar Future Heroes", "region": "EUR", "language": "en" }
+	],
+	"native_region": "JPN"
+}

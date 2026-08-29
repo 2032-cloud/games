@@ -1,0 +1,7 @@
+{
+	"titles": [
+		{ "name": "Premier Action Soccer", "region": "EUR", "language": "en" },
+		{ "name": "Anstoss Action", "region": "EUR", "language": "de" }
+	],
+	"native_region": "EUR"
+}

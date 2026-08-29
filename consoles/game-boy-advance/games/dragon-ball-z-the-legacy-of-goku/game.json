@@ -1,0 +1,10 @@
+{
+	"titles": [
+		{ "name": "Dragon Ball Z: The Legacy of Goku", "region": "USA,EUR", "language": "en" },
+		{ "name": "Dragon Ball Z: L'Héritage de Goku", "region": "EUR", "language": "fr" },
+		{ "name": "Dragon Ball Z: Das Erbe von Goku", "region": "EUR", "language": "de" },
+		{ "name": "Dragon Ball Z: El Legado del Goku", "region": "EUR", "language": "es" },
+		{ "name": "Dragon Ball Z: Il Destino di Goku", "region": "EUR", "language": "it" }
+	],
+	"native_region": "USA"
+}

@@ -1,0 +1,11 @@
+{
+	"titles": [
+		{ "name": "Disney's The Lion King 11⁄2", "region": "USA", "language": "en" },
+		{ "name": "Disney's The Lion King", "region": "EUR", "language": "en" },
+		{ "name": "Disney Le Roi Lion", "region": "EUR", "language": "fr" },
+		{ "name": "Disneys Der König der Löwen", "region": "EUR", "language": "de" },
+		{ "name": "Disney El Rey Leon", "region": "EUR", "language": "es" },
+		{ "name": "Disney Il Re Leone", "region": "EUR", "language": "it" }
+	],
+	"native_region": "USA"
+}

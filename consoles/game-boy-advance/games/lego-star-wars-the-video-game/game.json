@@ -1,0 +1,7 @@
+{
+	"titles": [
+		{ "name": "Lego Star Wars: The Video Game", "region": "USA,EUR,JPN", "language": "en" },
+		{ "name": "Lego Star Wars: Das Videospiel", "region": "EUR", "language": "de" }
+	],
+	"native_region": "USA"
+}

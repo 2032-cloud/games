@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "Garfield and His Nine Lives", "region": "USA,EUR", "language": "en" },
+		{ "name": "Garfield et ses Neuf Vies", "region": "EUR", "language": "fr" },
+		{ "name": "Garfield und seine Neun Leben", "region": "EUR", "language": "de" }
+	],
+	"native_region": "USA"
+}

@@ -1,0 +1,10 @@
+{
+	"titles": [
+		{ "name": "Over the Hedge: Hammy Goes Nuts!", "region": "USA,EUR", "language": "en" },
+		{ "name": "Nos Voisins, les Hommes: Zamy Pète Les Plombs!", "region": "EUR", "language": "fr" },
+		{ "name": "Ab durch die Hecke: Hammy Dreht Durch", "region": "EUR", "language": "de" },
+		{ "name": "Vecinos Invasores: ¡Hammy Enloquece!", "region": "EUR", "language": "es" },
+		{ "name": "La Gang del Bosco: Hammy si Scatena", "region": "EUR", "language": "it" }
+	],
+	"native_region": "USA"
+}

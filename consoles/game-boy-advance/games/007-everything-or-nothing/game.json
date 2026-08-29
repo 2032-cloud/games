@@ -1,0 +1,9 @@
+{
+	"titles": [
+		{ "name": "007: Everything or Nothing", "region": "USA,EUR", "language": "en" },
+		{ "name": "007: Quitte ou Double", "region": "EUR", "language": "fr" },
+		{ "name": "007: Alles oder Nichts", "region": "EUR", "language": "de" },
+		{ "name": "James Bond? 007: Everything or Nothing", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "USA"
+}

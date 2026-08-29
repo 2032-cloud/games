@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "ESPN Final Round Golf 2002", "region": "USA", "language": "en" },
+		{ "name": "ESPN Final Round Golf", "region": "EUR", "language": "en" },
+		{ "name": "JGTO Golf Master: Japan Tour Golf Game", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "USA"
+}

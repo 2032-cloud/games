@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "American Idol", "region": "USA", "language": "en" },
+		{ "name": "Pop Idol", "region": "EUR", "language": "en" },
+		{ "name": "Deutschland sucht den Superstar", "region": "EUR", "language": "de" }
+	],
+	"native_region": "USA"
+}

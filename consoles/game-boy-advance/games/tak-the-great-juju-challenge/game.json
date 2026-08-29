@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "Tak: The Great Juju Challenge", "region": "USA,EUR", "language": "en" },
+		{ "name": "Tak: Die Große Juju-Jagd", "region": "EUR", "language": "de" },
+		{ "name": "Tak: La Grande Sfida", "region": "EUR", "language": "it" }
+	],
+	"native_region": "USA"
+}

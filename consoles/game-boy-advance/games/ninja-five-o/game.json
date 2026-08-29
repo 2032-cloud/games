@@ -1,0 +1,7 @@
+{
+	"titles": [
+		{ "name": "Ninja Five-O", "region": "USA", "language": "en" },
+		{ "name": "Ninja Cop", "region": "EUR", "language": "en" }
+	],
+	"native_region": "USA"
+}

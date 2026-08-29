@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "Asterix & Obelix: Bash Them All!", "region": "EUR", "language": "en" },
+		{ "name": "Asterix & Obelix: Paf! Par Toutatis!", "region": "EUR", "language": "fr" },
+		{ "name": "Asterix & Obelix: Jetzt Geht's Rund!", "region": "EUR", "language": "de" }
+	],
+	"native_region": "EUR"
+}

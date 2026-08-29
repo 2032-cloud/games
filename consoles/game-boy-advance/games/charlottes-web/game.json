@@ -1,0 +1,10 @@
+{
+	"titles": [
+		{ "name": "Charlotte's Web", "region": "USA,EUR", "language": "en" },
+		{ "name": "Le Petit Monde de Charlotte", "region": "EUR", "language": "fr" },
+		{ "name": "Schweinchen Wilbur und seine Freunde", "region": "EUR", "language": "de" },
+		{ "name": "La Telaraña de Carlota", "region": "EUR", "language": "es" },
+		{ "name": "Le Tela di Carlotta", "region": "EUR", "language": "it" }
+	],
+	"native_region": "USA"
+}

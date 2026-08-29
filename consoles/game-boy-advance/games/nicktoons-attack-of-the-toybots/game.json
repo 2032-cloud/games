@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "Nicktoons: Attack of the Toybots", "region": "USA", "language": "en" },
+		{ "name": "Bob l'éponge et Ses Amis: Contre les Robots-Jouets", "region": "EUR", "language": "fr" },
+		{ "name": "SpongeBob und siene Freunde: Angriff der Spielzeugroboter", "region": "EUR", "language": "de" }
+	],
+	"native_region": "USA"
+}

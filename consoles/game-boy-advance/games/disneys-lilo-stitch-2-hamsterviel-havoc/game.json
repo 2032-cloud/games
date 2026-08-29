@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "Disney's Lilo & Stitch 2: Hämsterviel Havoc", "region": "USA", "language": "en" },
+		{ "name": "Disney's Lilo & Stitch 2", "region": "EUR", "language": "en" },
+		{ "name": "Disney's Lilo and Stitch", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "USA"
+}

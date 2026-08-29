@@ -1,0 +1,7 @@
+{
+	"titles": [
+		{ "name": "Dr. Seuss' The Cat in the Hat", "region": "USA", "language": "en" },
+		{ "name": "The Cat in the Hat", "region": "EUR", "language": "en" }
+	],
+	"native_region": "USA"
+}

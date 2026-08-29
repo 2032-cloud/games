@@ -1,0 +1,7 @@
+{
+	"titles": [
+		{ "name": "Scooby-Doo! Unmasked", "region": "USA,EUR", "language": "en" },
+		{ "name": "Scooby-Doo! Démasqué", "region": "EUR", "language": "fr" }
+	],
+	"native_region": "USA"
+}

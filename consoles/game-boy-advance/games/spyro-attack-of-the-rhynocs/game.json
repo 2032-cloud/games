@@ -1,0 +1,7 @@
+{
+	"titles": [
+		{ "name": "Spyro: Attack of the Rhynocs", "region": "USA", "language": "en" },
+		{ "name": "Spyro Adventure", "region": "EUR", "language": "en" }
+	],
+	"native_region": "USA"
+}

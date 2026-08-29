@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "Egg Mania: Eggstreme Madness", "region": "USA", "language": "en" },
+		{ "name": "Eggo Mania", "region": "EUR", "language": "en" },
+		{ "name": "Tsukande! Mawashite! Dossun Pazuru Eggo Mania", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "USA"
+}

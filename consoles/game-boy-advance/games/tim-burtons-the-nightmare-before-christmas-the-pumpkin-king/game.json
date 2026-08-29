@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "Tim Burton's The Nightmare Before Christmas: The Pumpkin King", "region": "USA,EUR,JPN", "language": "en" },
+		{ "name": "L'Etrange Noël de Monsieur Jack: Le Roi des Citrouilles", "region": "EUR", "language": "fr" },
+		{ "name": "Pesadilla antes de Navidad de Tim Burton: El Rey Calabaza", "region": "EUR", "language": "es" }
+	],
+	"native_region": "USA"
+}

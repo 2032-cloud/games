@@ -1,0 +1,11 @@
+{
+	"titles": [
+		{ "name": "Nicktoons Unite!", "region": "USA", "language": "en" },
+		{ "name": "SpongeBob SquarePants and Friends Unite!", "region": "EUR", "language": "en" },
+		{ "name": "Bob l'éponge et ses Amis: Un pour Tous, Tous pour Un!", "region": "EUR", "language": "fr" },
+		{ "name": "SpongeBob Schwammkopf und Seine Freunde: Durch Dick und Dünn!", "region": "EUR", "language": "de" },
+		{ "name": "Bob Esponja y Amigos: ¡Unidos!", "region": "EUR", "language": "es" },
+		{ "name": "SpongeBob SquarePants en Zijn Vrienden: Samen Staan Ze Sterk!", "region": "EUR", "language": "nl" }
+	],
+	"native_region": "USA"
+}

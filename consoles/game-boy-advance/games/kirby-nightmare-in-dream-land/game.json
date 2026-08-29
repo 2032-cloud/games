@@ -1,0 +1,7 @@
+{
+	"titles": [
+		{ "name": "Kirby: Nightmare in Dream Land", "region": "USA,EUR,AUS", "language": "en" },
+		{ "name": "Hoshi no Kirby: Yume no Izumi Deluxe", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "JPN"
+}

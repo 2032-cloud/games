@@ -1,0 +1,11 @@
+{
+	"titles": [
+		{ "name": "Disney's The Jungle Book", "region": "USA", "language": "en" },
+		{ "name": "Disney's The Jungle Book 2", "region": "EUR", "language": "en" },
+		{ "name": "Le Livre de la Jungle 2", "region": "EUR", "language": "fr" },
+		{ "name": "Disneys Das Dschungelbuch 2", "region": "EUR", "language": "de" },
+		{ "name": "Disney el Libro de la Selva 2", "region": "EUR", "language": "es" },
+		{ "name": "Disney Il Libro Della Giungla 2", "region": "EUR", "language": "it" }
+	],
+	"native_region": "USA"
+}

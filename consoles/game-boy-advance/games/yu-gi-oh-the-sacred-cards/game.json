@@ -1,0 +1,11 @@
+{
+	"titles": [
+		{ "name": "Yu-Gi-Oh! The Sacred Cards", "region": "USA,EUR", "language": "en" },
+		{ "name": "Yu-Gi-Oh! Dungeon Les Cartes Sacrées", "region": "EUR", "language": "fr" },
+		{ "name": "Yu-Gi-Oh! Die Heiligen Karten", "region": "EUR", "language": "de" },
+		{ "name": "Yu-Gi-Oh! Las Cartas Sagradas", "region": "EUR", "language": "es" },
+		{ "name": "Yu-Gi-Oh! Le Carte Leggendarie", "region": "EUR", "language": "it" },
+		{ "name": "Yu-Gi-Oh! Duel Monsters 7: Kettou Toshi Densetsu", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "USA"
+}

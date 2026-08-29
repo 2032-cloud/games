@@ -1,0 +1,11 @@
+{
+	"titles": [
+		{ "name": "Finding Nemo: The Continuing Adventures", "region": "USA,EUR", "language": "en" },
+		{ "name": "Le Monde de Nemo: L'Aventure Continue", "region": "EUR", "language": "fr" },
+		{ "name": "Findet Nemo: Das Abenteuer Geht Weiter", "region": "EUR", "language": "de" },
+		{ "name": "Buscando a Nemo: La Aventura Continúa", "region": "EUR", "language": "es" },
+		{ "name": "Alla Ricerca Di Nemo: L'Avventura Continua!", "region": "EUR", "language": "it" },
+		{ "name": "Finding Nemo: Arata na Bouken", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "USA"
+}

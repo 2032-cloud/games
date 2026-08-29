@@ -1,0 +1,13 @@
+{
+	"titles": [
+		{ "name": "Harry Potter and the Sorcerer's Stone", "region": "USA", "language": "en" },
+		{ "name": "Harry Potter and the Philosopher's Stone", "region": "EUR", "language": "en" },
+		{ "name": "Harry Potter a L'Ecole des Sorciers", "region": "EUR", "language": "fr" },
+		{ "name": "Harry Potter und des Stein der Weisen", "region": "EUR", "language": "de" },
+		{ "name": "Harry Potter y la Piedra Filosofal", "region": "EUR", "language": "es" },
+		{ "name": "Harry Potter e la Pietra Filosofale", "region": "EUR", "language": "it" },
+		{ "name": "Harry Potter en de Steen der Wijzen", "region": "EUR", "language": "nl" },
+		{ "name": "Harry Potter to Kenja no Ishi", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "USA"
+}

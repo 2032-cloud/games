@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "Classic NES Series: Castlevania", "region": "USA", "language": "en" },
+		{ "name": "NES Classics: Castlevania", "region": "EUR", "language": "en" },
+		{ "name": "Famicom Mini: Akumajou Dracula", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "JPN"
+}

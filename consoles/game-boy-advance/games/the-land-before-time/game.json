@@ -1,0 +1,9 @@
+{
+	"titles": [
+		{ "name": "The Land Before Time", "region": "USA,EUR", "language": "en" },
+		{ "name": "Le Petit Dinosaure", "region": "EUR", "language": "fr" },
+		{ "name": "In Einem Land Vor Unserer Zeit", "region": "EUR", "language": "de" },
+		{ "name": "Alla Ricerca della Valle Incantata", "region": "EUR", "language": "it" }
+	],
+	"native_region": "USA"
+}

@@ -1,0 +1,10 @@
+{
+	"titles": [
+		{ "name": "Maya the Bee: The Great Adventure", "region": "EUR", "language": "en" },
+		{ "name": "Maya L'Abeille: La Grande Aventure", "region": "EUR", "language": "fr" },
+		{ "name": "Die Biene Maja: Das Grosse Abenteuer", "region": "EUR", "language": "de" },
+		{ "name": "La Abeja Maya: Nuevas Aventuras", "region": "EUR", "language": "es" },
+		{ "name": "L'Ape Maia: La Grande Avventura", "region": "EUR", "language": "it" }
+	],
+	"native_region": "EUR"
+}

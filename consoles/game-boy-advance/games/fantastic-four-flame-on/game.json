@@ -1,0 +1,9 @@
+{
+	"titles": [
+		{ "name": "Fantastic Four: Flame On", "region": "USA,EUR", "language": "en" },
+		{ "name": "Les Fantastiques 4: Flame On", "region": "EUR", "language": "fr" },
+		{ "name": "Los 4 Fantásticos: ¡Llamas a mí!", "region": "EUR", "language": "es" },
+		{ "name": "I Fantastici 4: Flame On", "region": "EUR", "language": "it" }
+	],
+	"native_region": "USA"
+}

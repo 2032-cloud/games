@@ -1,0 +1,7 @@
+{
+	"titles": [
+		{ "name": "Around the World in 80 Days", "region": "USA,EUR", "language": "en" },
+		{ "name": "Le Tour du Monde en 80 Jours", "region": "EUR", "language": "fr" }
+	],
+	"native_region": "USA"
+}

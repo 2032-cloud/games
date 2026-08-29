@@ -1,0 +1,9 @@
+{
+	"titles": [
+		{ "name": "Disney Presents Home on the Range", "region": "USA", "language": "en" },
+		{ "name": "Disney's Home on the Range", "region": "EUR", "language": "en" },
+		{ "name": "Disney La Ferme se Rebelle", "region": "EUR", "language": "fr" },
+		{ "name": "Disney Zafarrancho en el Rancho", "region": "EUR", "language": "es" }
+	],
+	"native_region": "USA"
+}

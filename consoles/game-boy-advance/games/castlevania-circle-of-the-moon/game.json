@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "Castlevania: Circle of the Moon", "region": "USA", "language": "en" },
+		{ "name": "Castlevania", "region": "EUR", "language": "en" },
+		{ "name": "Akumajou Dracula: Circle of the Moon", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "JPN"
+}

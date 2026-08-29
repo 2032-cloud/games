@@ -1,0 +1,10 @@
+{
+	"titles": [
+		{ "name": "Shrek 2: Beg for Mercy!", "region": "USA,EUR", "language": "en" },
+		{ "name": "Shrek 2: La Charge Zéroïque", "region": "EUR", "language": "fr" },
+		{ "name": "Shrek 2: Flehe um Gnade!", "region": "EUR", "language": "de" },
+		{ "name": "Shrek 2: Suplicad Piedad", "region": "EUR", "language": "es" },
+		{ "name": "Shrek 2: Gatto all'Attacco!", "region": "EUR", "language": "it" }
+	],
+	"native_region": "USA"
+}

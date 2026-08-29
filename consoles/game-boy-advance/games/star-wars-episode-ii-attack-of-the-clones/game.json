@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "Star Wars: Episode II – Attack of the Clones", "region": "USA,EUR", "language": "en" },
+		{ "name": "Star Wars: Episode II - Angriff der Klonkrieger", "region": "EUR", "language": "de" },
+		{ "name": "Star Wars: Episodio II - El Ataque de los Clones", "region": "EUR", "language": "es" }
+	],
+	"native_region": "USA"
+}

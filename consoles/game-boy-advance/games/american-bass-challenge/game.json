@@ -1,0 +1,7 @@
+{
+	"titles": [
+		{ "name": "American Bass Challenge", "region": "USA", "language": "en" },
+		{ "name": "Super Black Bass Advance", "region": "EUR,JPN", "language": "ja-Latn" }
+	],
+	"native_region": "USA"
+}

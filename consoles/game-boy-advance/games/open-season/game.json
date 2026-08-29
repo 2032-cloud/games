@@ -1,0 +1,9 @@
+{
+	"titles": [
+		{ "name": "Open Season", "region": "USA,EUR", "language": "en" },
+		{ "name": "Les Rebelles de la Forêt", "region": "EUR", "language": "fr" },
+		{ "name": "Colegas en el Bosque", "region": "EUR", "language": "es" },
+		{ "name": "Boog & Elliot: A Caccia di Amici", "region": "EUR", "language": "it" }
+	],
+	"native_region": "USA"
+}

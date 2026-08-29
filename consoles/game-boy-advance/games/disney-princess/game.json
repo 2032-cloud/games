@@ -1,0 +1,10 @@
+{
+	"titles": [
+		{ "name": "Disney Princess", "region": "USA,EUR", "language": "en" },
+		{ "name": "Disney Princesse", "region": "EUR", "language": "fr" },
+		{ "name": "Disney Prinzessinnen", "region": "EUR", "language": "de" },
+		{ "name": "Disney Princesas", "region": "EUR", "language": "es" },
+		{ "name": "Disney Principesse", "region": "EUR", "language": "it" }
+	],
+	"native_region": "USA"
+}

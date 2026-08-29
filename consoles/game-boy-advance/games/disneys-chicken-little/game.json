@@ -1,0 +1,7 @@
+{
+	"titles": [
+		{ "name": "Disney's Chicken Little", "region": "USA,EUR", "language": "en" },
+		{ "name": "Disneys Himmel und Huhn", "region": "EUR", "language": "de" }
+	],
+	"native_region": "USA"
+}

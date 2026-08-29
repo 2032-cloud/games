@@ -1,0 +1,7 @@
+{
+	"titles": [
+		{ "name": "Game & Watch Gallery 4", "region": "USA", "language": "en" },
+		{ "name": "Game & Watch Gallery Advance", "region": "EUR", "language": "en" }
+	],
+	"native_region": "EUR"
+}

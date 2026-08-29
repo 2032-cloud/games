@@ -1,0 +1,7 @@
+{
+	"titles": [
+		{ "name": "Soccer Mania", "region": "USA", "language": "en" },
+		{ "name": "Football Mania", "region": "EUR", "language": "en" }
+	],
+	"native_region": "USA"
+}

@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "Gradius Galaxies", "region": "USA", "language": "en" },
+		{ "name": "Gradius Advance", "region": "EUR", "language": "en" },
+		{ "name": "Gradius Generation", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "EUR"
+}

@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "Tweety & the Magic Gems", "region": "USA,EUR", "language": "en" },
+		{ "name": "Titi et les Bijoux Magiques", "region": "EUR", "language": "fr" },
+		{ "name": "Tweety no Hearty Party", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "USA"
+}

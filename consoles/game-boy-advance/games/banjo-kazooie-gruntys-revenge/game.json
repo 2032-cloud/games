@@ -1,0 +1,10 @@
+{
+	"titles": [
+		{ "name": "Banjo-Kazooie: Grunty's Revenge", "region": "USA,EUR", "language": "en" },
+		{ "name": "Banjo-Kazooie: La Revanche de Grunty", "region": "EUR", "language": "fr" },
+		{ "name": "Banjo-Kazooie: Grunty's Rache", "region": "EUR", "language": "de" },
+		{ "name": "Banjo-Kazooie: La Venganza de Grunty", "region": "EUR", "language": "es" },
+		{ "name": "La vendetta di Grunty", "region": "EUR", "language": "it" }
+	],
+	"native_region": "USA"
+}

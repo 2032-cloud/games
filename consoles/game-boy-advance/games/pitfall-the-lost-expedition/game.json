@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "Pitfall: The Lost Expedition", "region": "USA,EUR", "language": "en" },
+		{ "name": "Pitfall: L'Expedition Perdue", "region": "EUR", "language": "fr" },
+		{ "name": "Pitfall: Die Verlorene Expedition", "region": "EUR", "language": "de" }
+	],
+	"native_region": "USA"
+}

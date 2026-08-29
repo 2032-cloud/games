@@ -1,0 +1,7 @@
+{
+	"titles": [
+		{ "name": "Power Rangers: Dino Thunder", "region": "USA,EUR", "language": "en" },
+		{ "name": "Power Rangers: Dino Tonnerre", "region": "EUR", "language": "fr" }
+	],
+	"native_region": "USA"
+}

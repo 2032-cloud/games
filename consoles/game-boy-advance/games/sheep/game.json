@@ -1,0 +1,7 @@
+{
+	"titles": [
+		{ "name": "Sheep", "region": "EUR", "language": "en" },
+		{ "name": "Hitsuji no Kimochi", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "EUR"
+}

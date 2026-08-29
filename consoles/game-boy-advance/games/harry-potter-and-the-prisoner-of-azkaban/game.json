@@ -1,0 +1,12 @@
+{
+	"titles": [
+		{ "name": "Harry Potter and the Prisoner of Azkaban", "region": "USA,EUR", "language": "en" },
+		{ "name": "Harry Potter et le Prisonnier d'Azkaban", "region": "EUR", "language": "fr" },
+		{ "name": "Harry Potter und der Gefangene von Askaban", "region": "EUR", "language": "de" },
+		{ "name": "Harry Potter y el Prisionero de Azkaban", "region": "EUR", "language": "es" },
+		{ "name": "Harry Potter E Il Prigioniero Di Azkaban", "region": "EUR", "language": "it" },
+		{ "name": "Harry Potter en de Gevangene van Azkaban", "region": "EUR", "language": "nl" },
+		{ "name": "Harry Potter to Azkaban no Shuujin", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "USA"
+}

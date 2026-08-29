@@ -1,0 +1,11 @@
+{
+	"titles": [
+		{ "name": "Disney's Treasure Planet", "region": "USA", "language": "en" },
+		{ "name": "Disney La Planète au trésor", "region": "EUR", "language": "fr" },
+		{ "name": "Disneys Der Schatzplanet", "region": "EUR", "language": "de" },
+		{ "name": "Disney El Planeta del tesoro", "region": "EUR", "language": "es" },
+		{ "name": "Disney Il Pianeta del Tesoro", "region": "EUR", "language": "it" },
+		{ "name": "Disney's Piratenplaneet: De Schat van Kapitein Flint", "region": "EUR", "language": "nl" }
+	],
+	"native_region": "USA"
+}

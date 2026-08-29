@@ -1,0 +1,9 @@
+{
+	"titles": [
+		{ "name": "Avatar: The Last Airbender", "region": "USA", "language": "en" },
+		{ "name": "Avatar: The Legend of Aang", "region": "EUR", "language": "en" },
+		{ "name": "Avatar: Le Dernier Maître de l'Air", "region": "EUR", "language": "fr" },
+		{ "name": "Avatar: Der Herr der Elemente", "region": "EUR", "language": "de" }
+	],
+	"native_region": "USA"
+}

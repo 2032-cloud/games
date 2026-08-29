@@ -1,0 +1,9 @@
+{
+	"titles": [
+		{ "name": "Rayman: Hoodlum's Revenge", "region": "USA", "language": "en" },
+		{ "name": "Rayman: Hoodlums' Revenge", "region": "EUR", "language": "en" },
+		{ "name": "Rayman: La Revanche Des Hoodlums", "region": "EUR", "language": "fr" },
+		{ "name": "Rayman: Die Rache Der Hoodlums", "region": "EUR", "language": "de" }
+	],
+	"native_region": "USA"
+}

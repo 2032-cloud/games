@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "Pinobee: Wings of Adventure", "region": "USA,EUR", "language": "en" },
+		{ "name": "Pinobee: Les Ailes de L'Aventure", "region": "EUR", "language": "fr" },
+		{ "name": "Pinobee no Daibouken", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "JPN"
+}

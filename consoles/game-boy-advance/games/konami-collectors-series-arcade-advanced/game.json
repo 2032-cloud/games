@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "Konami Collector's Series: Arcade Advanced", "region": "USA", "language": "en" },
+		{ "name": "Konami Collector's Series: Arcade Classics", "region": "EUR", "language": "en" },
+		{ "name": "Konami Arcade Game Collection", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "USA"
+}

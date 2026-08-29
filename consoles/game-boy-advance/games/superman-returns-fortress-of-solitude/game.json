@@ -1,0 +1,10 @@
+{
+	"titles": [
+		{ "name": "Superman Returns: Fortress of Solitude", "region": "USA,EUR", "language": "en" },
+		{ "name": "Superman Returns: La Forteresse de Solitude", "region": "EUR", "language": "fr" },
+		{ "name": "Superman Returns: Festung der Einsamkeit", "region": "EUR", "language": "de" },
+		{ "name": "Superman Returns: La Fortaleza de la Soledad", "region": "EUR", "language": "es" },
+		{ "name": "Superman Returns: La Fortezza della Solitudine", "region": "EUR", "language": "it" }
+	],
+	"native_region": "USA"
+}

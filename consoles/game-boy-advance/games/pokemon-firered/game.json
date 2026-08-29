@@ -1,0 +1,11 @@
+{
+	"titles": [
+		{ "name": "Pokémon FireRed", "region": "USA,EUR,AUS", "language": "en" },
+		{ "name": "Pokémon: Version Rouge Feu", "region": "EUR", "language": "fr" },
+		{ "name": "Pokémon: Feuerrote Edition", "region": "EUR", "language": "de" },
+		{ "name": "Pokémon: Edición Rojo Fuego", "region": "EUR", "language": "es" },
+		{ "name": "Pokémon: Versione Rosso Fuoco", "region": "EUR", "language": "it" },
+		{ "name": "Pocket Monsters FireRed", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "JPN"
+}

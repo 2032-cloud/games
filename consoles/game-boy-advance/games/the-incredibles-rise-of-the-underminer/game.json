@@ -1,0 +1,11 @@
+{
+	"titles": [
+		{ "name": "The Incredibles: Rise of the Underminer", "region": "USA,EUR", "language": "en" },
+		{ "name": "Les Indestructibles: La Terrible Attaque du Démolisseur", "region": "EUR", "language": "fr" },
+		{ "name": "Die Unglaublichen: Der Angriff des Tunnelgräbers", "region": "EUR", "language": "de" },
+		{ "name": "Los Increíbles: La Amenza del Socavador", "region": "EUR", "language": "es" },
+		{ "name": "Gli Incredibili: L'ascesa del Minatore", "region": "EUR", "language": "it" },
+		{ "name": "Mr. Incredible: Kyouteki Underminer Toujou", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "USA"
+}

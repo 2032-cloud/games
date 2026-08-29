@@ -1,0 +1,7 @@
+{
+	"titles": [
+		{ "name": "Uno / Skip-Bo", "region": "USA", "language": "en" },
+		{ "name": "Uno & Skip-Bo", "region": "EUR", "language": "en" }
+	],
+	"native_region": "USA"
+}

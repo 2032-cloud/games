@@ -1,0 +1,10 @@
+{
+	"titles": [
+		{ "name": "Tak and the Power of Juju", "region": "USA,EUR", "language": "en" },
+		{ "name": "Tak & Le Pouvoir de Juju", "region": "EUR", "language": "fr" },
+		{ "name": "Tak und die Macht des Juju", "region": "EUR", "language": "de" },
+		{ "name": "Tak y el Poder Juju", "region": "EUR", "language": "es" },
+		{ "name": "Tak e la Magia Juju", "region": "EUR", "language": "it" }
+	],
+	"native_region": "USA"
+}

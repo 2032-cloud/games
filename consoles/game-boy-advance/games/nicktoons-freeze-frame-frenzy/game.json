@@ -1,0 +1,11 @@
+{
+	"titles": [
+		{ "name": "Nicktoons: Freeze Frame Frenzy", "region": "USA", "language": "en" },
+		{ "name": "SpongeBob SquarePants and Friends: Freeze Frame Frenzy", "region": "EUR", "language": "en" },
+		{ "name": "Bob l'éponge et ses Amis: La Photo en Délire (France)", "region": "EUR", "language": "fr" },
+		{ "name": "SpongeBob Schwammkopf und seine Freunde im Fotofieber", "region": "EUR", "language": "de" },
+		{ "name": "Bob Esponja y sus Amigos: La Cámara Loca", "region": "EUR", "language": "es" },
+		{ "name": "SpongeBob SquarePants en Zijn Vrienden: De gekke camera", "region": "EUR", "language": "nl" }
+	],
+	"native_region": "USA"
+}

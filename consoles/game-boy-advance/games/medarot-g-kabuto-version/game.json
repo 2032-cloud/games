@@ -1,0 +1,7 @@
+{
+	"titles": [
+		{ "name": "Medabots AX: Metabee Version", "region": "USA,EUR", "language": "en" },
+		{ "name": "Medarot G: Kabuto Version", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "EUR"
+}

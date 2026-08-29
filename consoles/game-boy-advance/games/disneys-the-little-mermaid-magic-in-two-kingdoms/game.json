@@ -1,0 +1,11 @@
+{
+	"titles": [
+		{ "name": "Disney's The Little Mermaid: Magic in Two Kingdoms", "region": "USA,EUR", "language": "en" },
+		{ "name": "La Petite Sirene: Aventure Magique entre Terre et Mer", "region": "EUR", "language": "fr" },
+		{ "name": "Arielle die Meerjungfrau: Ein Meer voller Abenteuer", "region": "EUR", "language": "de" },
+		{ "name": "Disney La Sirenita: Dos Reinos Mágicos", "region": "EUR", "language": "es" },
+		{ "name": "La Sirenetta: Due Mondi di Magia", "region": "EUR", "language": "it" },
+		{ "name": "Disney's De Kleine Zeemeermin: Magie in Twee Werelden", "region": "EUR", "language": "nl" }
+	],
+	"native_region": "USA"
+}

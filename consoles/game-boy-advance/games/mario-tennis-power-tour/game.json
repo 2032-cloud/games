@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "Mario Tennis: Power Tour", "region": "USA", "language": "en" },
+		{ "name": "Mario Power Tennis", "region": "EUR", "language": "en" },
+		{ "name": "Mario Tennis Advance", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "JPN"
+}

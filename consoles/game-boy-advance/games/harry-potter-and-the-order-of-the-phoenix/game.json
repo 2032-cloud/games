@@ -1,0 +1,11 @@
+{
+	"titles": [
+		{ "name": "Harry Potter and the Order of the Phoenix", "region": "USA,EUR", "language": "en" },
+		{ "name": "Harry Potter et l'Ordre du Phénix", "region": "EUR", "language": "fr" },
+		{ "name": "Harry Potter und der Orden des Phönix", "region": "EUR", "language": "de" },
+		{ "name": "Harry Potter y la Orden del Fénix", "region": "EUR", "language": "es" },
+		{ "name": "Harry Potter e l'Ordine della Fenice", "region": "EUR", "language": "it" },
+		{ "name": "Harry Potter en de Orde van de Feniks", "region": "EUR", "language": "nl" }
+	],
+	"native_region": "USA"
+}

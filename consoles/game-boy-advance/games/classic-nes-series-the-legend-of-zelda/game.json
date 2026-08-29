@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "Classic NES Series: The Legend of Zelda", "region": "USA", "language": "en" },
+		{ "name": "NES Classics: The Legend of Zelda", "region": "EUR", "language": "en" },
+		{ "name": "Famicom Mini: Zelda no Densetsu", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "JPN"
+}

@@ -1,0 +1,7 @@
+{
+	"titles": [
+		{ "name": "Disney's Magical Quest 2 Starring Mickey and Minnie", "region": "USA,EUR", "language": "en" },
+		{ "name": "Disney's Mickey to Minnie no Magical Quest 2", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "USA"
+}

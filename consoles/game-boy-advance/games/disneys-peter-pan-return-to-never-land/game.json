@@ -1,0 +1,11 @@
+{
+	"titles": [
+		{ "name": "Disney's Peter Pan: Return to Never Land", "region": "USA,EUR", "language": "en" },
+		{ "name": "Peter Pan: Retour au Pays Imaginaire", "region": "EUR", "language": "fr" },
+		{ "name": "Disneys Peter Pan: Neue Abenteuer in Nimmerland", "region": "EUR", "language": "de" },
+		{ "name": "Disney Peter Pan: Regreso al País de Nunca Jamás", "region": "EUR", "language": "es" },
+		{ "name": "Disney Peter Pan: Ritorno all Isola che Non c'è", "region": "EUR", "language": "it" },
+		{ "name": "Peter Pan: Terug naar Nooitgedachtland", "region": "EUR", "language": "nl" }
+	],
+	"native_region": "USA"
+}

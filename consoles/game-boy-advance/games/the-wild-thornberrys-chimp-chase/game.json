@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "The Wild Thornberrys: Chimp Chase", "region": "USA,EUR", "language": "en" },
+		{ "name": "La Famille Delajungle: A la Poursuite de Darwin", "region": "EUR", "language": "fr" },
+		{ "name": "Expedition der Stachelbeeren: Zoff im Zoo!", "region": "EUR", "language": "de" }
+	],
+	"native_region": "USA"
+}

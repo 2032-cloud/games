@@ -1,0 +1,7 @@
+{
+	"titles": [
+		{ "name": "Puyo Pop Fever", "region": "EUR", "language": "en" },
+		{ "name": "Puyo Puyo Fever", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "JPN"
+}

@@ -1,0 +1,7 @@
+{
+	"titles": [
+		{ "name": "Disney Sports Soccer", "region": "USA", "language": "en" },
+		{ "name": "Disney Sports Football", "region": "EUR", "language": "en" }
+	],
+	"native_region": "USA"
+}

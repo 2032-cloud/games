@@ -1,0 +1,11 @@
+{
+	"titles": [
+		{ "name": "Yu-Gi-Oh! Reshef of Destruction", "region": "USA,EUR", "language": "en" },
+		{ "name": "Yu-Gi-Oh! Reshef le Destructeur", "region": "EUR", "language": "fr" },
+		{ "name": "Yu-Gi-Oh! Reshef der Zerstörer", "region": "EUR", "language": "de" },
+		{ "name": "Yu-Gi-Oh! Reshef el Destructor", "region": "EUR", "language": "es" },
+		{ "name": "Yu-Gi-Oh! Reshef el Distruttore", "region": "EUR", "language": "it" },
+		{ "name": "Yu-Gi-Oh! Duel Monsters 8: Hametsu no Dai Jashin", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "USA"
+}

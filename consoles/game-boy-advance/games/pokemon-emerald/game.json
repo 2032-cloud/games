@@ -1,0 +1,11 @@
+{
+	"titles": [
+		{ "name": "Pokémon Emerald", "region": "USA,EUR,AUS", "language": "en" },
+		{ "name": "Pokémon: Version Emeraude", "region": "EUR", "language": "fr" },
+		{ "name": "Pokémon: Smaragd-Edition", "region": "EUR", "language": "de" },
+		{ "name": "Pokémon: Edición Esmeralda", "region": "EUR", "language": "es" },
+		{ "name": "Pokémon: Versione Smeraldo", "region": "EUR", "language": "it" },
+		{ "name": "Pocket Monsters Emerald", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "JPN"
+}

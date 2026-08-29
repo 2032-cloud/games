@@ -1,0 +1,10 @@
+{
+	"titles": [
+		{ "name": "Planet of the Apes", "region": "USA,EUR", "language": "en" },
+		{ "name": "Planète des Singes", "region": "EUR", "language": "fr" },
+		{ "name": "Planet der Affen", "region": "EUR", "language": "de" },
+		{ "name": "El Planeta de los Simios", "region": "EUR", "language": "es" },
+		{ "name": "Il Pianeta delle Scimmie", "region": "EUR", "language": "it" }
+	],
+	"native_region": "USA"
+}

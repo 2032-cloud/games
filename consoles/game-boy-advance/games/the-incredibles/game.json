@@ -1,0 +1,11 @@
+{
+	"titles": [
+		{ "name": "The Incredibles", "region": "USA,EUR", "language": "en" },
+		{ "name": "Les Indestructibles", "region": "EUR", "language": "fr" },
+		{ "name": "Die Unglaublichen", "region": "EUR", "language": "de" },
+		{ "name": "Los Increíbles", "region": "EUR", "language": "es" },
+		{ "name": "Gli Incredibili: Una \"Normale\" Famiglia di Supereroi", "region": "EUR", "language": "it" },
+		{ "name": "Mr. Incredible", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "USA"
+}

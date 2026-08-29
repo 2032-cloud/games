@@ -1,0 +1,10 @@
+{
+	"titles": [
+		{ "name": "Let's Ride! Sunshine Stables", "region": "USA", "language": "en" },
+		{ "name": "Pippa Funnell: Stable Adventure", "region": "EUR", "language": "en" },
+		{ "name": "Alexandra Ledermann", "region": "EUR", "language": "fr" },
+		{ "name": "Pferd & Pony: Mein Pferdehof", "region": "EUR", "language": "de" },
+		{ "name": "Paard & Pony: Mijn Manege", "region": "EUR", "language": "nl" }
+	],
+	"native_region": "USA"
+}

@@ -1,0 +1,11 @@
+{
+	"titles": [
+		{ "name": "Pokémon LeafGreen", "region": "USA,EUR,AUS", "language": "en" },
+		{ "name": "Pokémon: Version Vert Feuille", "region": "EUR", "language": "fr" },
+		{ "name": "Pokémon: Blattgrüne Edition", "region": "EUR", "language": "de" },
+		{ "name": "Pokémon: Edición Verde Hoja", "region": "EUR", "language": "es" },
+		{ "name": "Pokémon: Versione Verde Foglia", "region": "EUR", "language": "it" },
+		{ "name": "Pocket Monsters LeafGreen", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "JPN"
+}

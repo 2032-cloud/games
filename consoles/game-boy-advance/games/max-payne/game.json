@@ -1,0 +1,7 @@
+{
+	"titles": [
+		{ "name": "Max Payne", "region": "USA", "language": "en" },
+		{ "name": "Max Payne Advance", "region": "EUR", "language": "en" }
+	],
+	"native_region": "USA"
+}

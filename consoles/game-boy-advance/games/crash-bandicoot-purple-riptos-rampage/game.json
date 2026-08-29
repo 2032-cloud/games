@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "Crash Bandicoot Purple: Ripto's Rampage", "region": "USA", "language": "en" },
+		{ "name": "Crash Bandicoot: Fusion", "region": "EUR", "language": "en" },
+		{ "name": "Crash Bandicoot Advance: Wakuwaku Tomodachi Daisakusen!", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "USA"
+}

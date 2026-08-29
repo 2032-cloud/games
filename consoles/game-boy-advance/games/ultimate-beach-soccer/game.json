@@ -1,0 +1,7 @@
+{
+	"titles": [
+		{ "name": "Ultimate Beach Soccer", "region": "USA", "language": "en" },
+		{ "name": "Pro Beach Soccer", "region": "EUR", "language": "en" }
+	],
+	"native_region": "EUR"
+}

@@ -1,0 +1,10 @@
+{
+	"titles": [
+		{ "name": "Lemony Snicket's A Series of Unfortunate Events", "region": "USA,EUR", "language": "en" },
+		{ "name": "Les Désastreuses aventures des orphelins Baudelaire d'après Lemony Snicket", "region": "EUR", "language": "fr" },
+		{ "name": "Lemony Snicket: Räetselhafte Ereignisse", "region": "EUR", "language": "de" },
+		{ "name": "Una Serie De Catastróficas Desdichas de Lemony Snicket", "region": "EUR", "language": "es" },
+		{ "name": "Lemony Snicket: Una Serie di Sfortunati Eventi", "region": "EUR", "language": "it" }
+	],
+	"native_region": "USA"
+}

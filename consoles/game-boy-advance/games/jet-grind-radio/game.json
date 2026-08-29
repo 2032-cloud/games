@@ -1,0 +1,7 @@
+{
+	"titles": [
+		{ "name": "Jet Grind Radio", "region": "USA", "language": "en" },
+		{ "name": "Jet Set Radio", "region": "EUR", "language": "en" }
+	],
+	"native_region": "USA"
+}

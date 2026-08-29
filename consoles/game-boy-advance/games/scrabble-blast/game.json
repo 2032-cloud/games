@@ -1,0 +1,7 @@
+{
+	"titles": [
+		{ "name": "Scrabble Blast!", "region": "USA", "language": "en" },
+		{ "name": "Scrabble Scramble", "region": "EUR", "language": "en" }
+	],
+	"native_region": "USA"
+}

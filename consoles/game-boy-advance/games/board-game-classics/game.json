@@ -1,0 +1,7 @@
+{
+	"titles": [
+		{ "name": "Board Game Classics", "region": "USA", "language": "en" },
+		{ "name": "Board Game Classics: Chess & Draughts & Backgammon", "region": "EUR", "language": "en" }
+	],
+	"native_region": "USA"
+}

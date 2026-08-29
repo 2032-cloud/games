@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "Avatar: The Last Airbender – The Burning Earth", "region": "USA", "language": "en" },
+		{ "name": "Avatar: The Legend of Aang - The Burning Earth", "region": "EUR", "language": "en" },
+		{ "name": "Avatar: Der Herr der Elemente - Die Erde Brennt", "region": "EUR", "language": "de" }
+	],
+	"native_region": "USA"
+}

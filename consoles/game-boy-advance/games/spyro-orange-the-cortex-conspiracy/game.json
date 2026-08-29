@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "Spyro Orange: The Cortex Conspiracy", "region": "USA", "language": "en" },
+		{ "name": "Spyro Fusion", "region": "EUR", "language": "en" },
+		{ "name": "Spyro Advance: Wakuwaku Tomodachi Daisakusen", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "USA"
+}

@@ -1,0 +1,7 @@
+{
+	"titles": [
+		{ "name": "Castlevania: Aria of Sorrow", "region": "USA,EUR", "language": "en" },
+		{ "name": "Castlevania: Akatsuki no Minuet", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "USA"
+}

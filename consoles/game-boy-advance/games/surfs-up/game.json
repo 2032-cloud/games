@@ -1,0 +1,10 @@
+{
+	"titles": [
+		{ "name": "Surf's Up", "region": "USA,EUR", "language": "en" },
+		{ "name": "Les Rois de la Glisse", "region": "EUR", "language": "fr" },
+		{ "name": "Könige Der Wellen", "region": "EUR", "language": "de" },
+		{ "name": "Locos por el Surf", "region": "EUR", "language": "es" },
+		{ "name": "Surf's Up: I Re Delle Onde", "region": "EUR", "language": "it" }
+	],
+	"native_region": "USA"
+}

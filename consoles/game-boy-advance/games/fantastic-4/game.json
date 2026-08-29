@@ -1,0 +1,9 @@
+{
+	"titles": [
+		{ "name": "Fantastic 4", "region": "USA,EUR", "language": "en" },
+		{ "name": "Les Fantastiques 4", "region": "EUR", "language": "fr" },
+		{ "name": "I Fantastici 4", "region": "EUR", "language": "it" },
+		{ "name": "Los 4 Fantásticos", "region": "EUR", "language": "es" }
+	],
+	"native_region": "USA"
+}

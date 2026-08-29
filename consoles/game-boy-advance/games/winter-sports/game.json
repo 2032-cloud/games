@@ -1,0 +1,7 @@
+{
+	"titles": [
+		{ "name": "Winter Sports", "region": "EUR", "language": "en" },
+		{ "name": "Winter Spiele", "region": "EUR", "language": "de" }
+	],
+	"native_region": "EUR"
+}

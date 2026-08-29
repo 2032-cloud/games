@@ -1,0 +1,10 @@
+{
+	"titles": [
+		{ "name": "Finding Nemo", "region": "USA,EUR", "language": "en" },
+		{ "name": "Le Monde de Nemo", "region": "EUR", "language": "fr" },
+		{ "name": "Findet Nemo", "region": "EUR", "language": "de" },
+		{ "name": "Buscando a Nemo", "region": "EUR", "language": "es" },
+		{ "name": "Alla Ricerca Di Nemo", "region": "EUR", "language": "it" }
+	],
+	"native_region": "USA"
+}

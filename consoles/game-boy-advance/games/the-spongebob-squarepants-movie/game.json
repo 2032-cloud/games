@@ -1,0 +1,9 @@
+{
+	"titles": [
+		{ "name": "The SpongeBob SquarePants Movie", "region": "USA,EUR", "language": "en" },
+		{ "name": "Bob L'éponge Le Film", "region": "EUR", "language": "fr" },
+		{ "name": "Der SpongeBob Schwammkopf Film", "region": "EUR", "language": "de" },
+		{ "name": "SpongeBob il Film", "region": "EUR", "language": "it" }
+	],
+	"native_region": "USA"
+}

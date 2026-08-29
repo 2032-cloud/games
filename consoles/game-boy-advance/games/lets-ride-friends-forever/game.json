@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "Let's Ride! Friends Forever", "region": "USA", "language": "en" },
+		{ "name": "Horse & Pony: Best Friends - My Horse", "region": "EUR", "language": "en" },
+		{ "name": "Pferd & Pony: Best Friends - Mein Pferd", "region": "EUR", "language": "de" }
+	],
+	"native_region": "USA"
+}

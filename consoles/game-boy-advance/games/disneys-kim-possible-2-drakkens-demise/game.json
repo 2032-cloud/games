@@ -1,0 +1,9 @@
+{
+	"titles": [
+		{ "name": "Disney's Kim Possible 2: Drakken's Demise", "region": "USA,EUR", "language": "en" },
+		{ "name": "Disneys Kim Possible: Dr. Drakkens Untergang", "region": "EUR", "language": "de" },
+		{ "name": "Disney Kim Possible: Contra el Doctor Drakken", "region": "EUR", "language": "es" },
+		{ "name": "Disney's Kim Possible", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "USA"
+}

@@ -1,0 +1,12 @@
+{
+	"titles": [
+		{ "name": "Yu-Gi-Oh! 7 Trials to Glory: World Championship Tournament 2005", "region": "USA", "language": "en" },
+		{ "name": "Yu-Gi-Oh! Day of the Duelist: World Championship Tournament 2005", "region": "EUR", "language": "en" },
+		{ "name": "Yu-Gi-Oh! Le Jour du Duelliste: World Championship Tournament 2005", "region": "EUR", "language": "fr" },
+		{ "name": "Yu-Gi-Oh! Der Tag des Duellanten: World Championship Tournament 2005", "region": "EUR", "language": "de" },
+		{ "name": "Yu-Gi-Oh! El Día del Duelo: World Championship Tournament 2005", "region": "EUR", "language": "es" },
+		{ "name": "Yu-Gi-Oh! Il Giorno del Duello: World Championship Tournament 2005", "region": "EUR", "language": "it" },
+		{ "name": "Yu-Gi-Oh! Duel Monsters International 2", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "JPN"
+}

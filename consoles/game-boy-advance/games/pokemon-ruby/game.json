@@ -1,0 +1,11 @@
+{
+	"titles": [
+		{ "name": "Pokémon Ruby", "region": "USA,EUR,AUS", "language": "en" },
+		{ "name": "Pokémon: Version Rubis", "region": "EUR", "language": "fr" },
+		{ "name": "Pokémon: Rubin-Edition", "region": "EUR", "language": "de" },
+		{ "name": "Pokémon: Edición Rubí", "region": "EUR", "language": "es" },
+		{ "name": "Pokémon: Versione Rubino", "region": "EUR", "language": "it" },
+		{ "name": "Pocket Monsters Ruby", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "JPN"
+}

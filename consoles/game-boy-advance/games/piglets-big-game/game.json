@@ -1,0 +1,8 @@
+{
+	"titles": [
+		{ "name": "Piglet's Big Game", "region": "USA,EUR", "language": "en" },
+		{ "name": "Les Aventures de Porcinet", "region": "EUR", "language": "fr" },
+		{ "name": "Ferkels Grosses Abenteuer-Spiel", "region": "EUR", "language": "de" }
+	],
+	"native_region": "USA"
+}

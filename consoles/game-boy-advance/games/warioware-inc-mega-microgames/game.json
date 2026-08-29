@@ -1,0 +1,9 @@
+{
+	"titles": [
+		{ "name": "WarioWare, Inc.: Mega Microgames!", "region": "USA", "language": "en" },
+		{ "name": "Wario Ware, Inc: Minigame Mania", "region": "EUR", "language": "en" },
+		{ "name": "Wario Ware, Inc.: Minigame Mania - Mega Mini-Jeux", "region": "EUR", "language": "fr" },
+		{ "name": "Made in Wario", "region": "JPN", "language": "ja-Latn" }
+	],
+	"native_region": "JPN"
+}

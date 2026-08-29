@@ -1,0 +1,10 @@
+{
+	"titles": [
+		{ "name": "Pokémon Pinball: Ruby & Sapphire", "region": "USA,EUR,JPN,AUS", "language": "en" },
+		{ "name": "Pokémon Pinball: Rubis & Saphir", "region": "EUR", "language": "fr" },
+		{ "name": "Pokémon Pinball: Rubin & Saphir", "region": "EUR", "language": "de" },
+		{ "name": "Pokémon Pinball: Rubí y Zafiro", "region": "EUR", "language": "es" },
+		{ "name": "Pokémon Pinball: Rubino e Zaffiro", "region": "EUR", "language": "it" }
+	],
+	"native_region": "JPN"
+}

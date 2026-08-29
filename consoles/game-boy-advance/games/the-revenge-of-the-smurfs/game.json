@@ -1,0 +1,10 @@
+{
+	"titles": [
+		{ "name": "The Revenge of the Smurfs", "region": "USA,EUR", "language": "en" },
+		{ "name": "La Revanche des Schtroumpfs / De Wraak van de Smurfen", "region": "EUR", "language": "fr" },
+		{ "name": "Die Schlümpfe schlagen zurück", "region": "EUR", "language": "de" },
+		{ "name": "Las Vengaza de los Pitufos", "region": "EUR", "language": "es" },
+		{ "name": "La Rivincita dei Puffi", "region": "EUR", "language": "it" }
+	],
+	"native_region": "EUR"
+}
