@@ -3,6 +3,7 @@ name: Sync to 2032
 on:
   push:
     branches: [main]
+  workflow_dispatch: {}
 
 jobs:
   sync:
@@ -10,10 +11,19 @@ jobs:
     environment: Deploy
     steps:
       - uses: actions/checkout@v4
+        with:
+          # sync.mjs diffs against the backend's last-synced commit, so it needs
+          # history, not just the tip.
+          fetch-depth: 0
+
       - uses: actions/setup-node@v4
         with:
           node-version: 22
+
       - run: node sync.mjs
         env:
           SYNC_URL: https://2032.cloud/internal/sync/games
           GAMES_SYNC_SECRET: ${{ secrets.GAMES_SYNC_SECRET }}
+          # A manual run re-verifies the whole catalog against stored hashes
+          # (still only writes real diffs); a push syncs incrementally.
+          SYNC_FORCE_FULL: ${{ github.event_name != 'push' && '1' || '' }}

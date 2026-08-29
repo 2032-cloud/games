@@ -11,7 +11,19 @@ read it before changing any data file.
 - Merges to `main` sync to the live DB via
   [`.github/workflows/sync.yml`](.github/workflows/sync.yml) running
   [`sync.mjs`](sync.mjs). Keep `sync.mjs`'s payload in step with 2032's
-  `src/worker/sync.ts` (`validateGame`).
+  `src/worker/sync.ts` (`validateGame`), including `PLACEHOLDER_DESCRIPTION`.
+- Sync is **incremental**. `sync.mjs` reads the backend's last-synced commit
+  from `GET <SYNC_URL>/state`, `git diff`s from there (surviving a failed run),
+  and per game compares a content hash against what's stored — so it only
+  re-sends games that actually changed, chunked, ending with a `finalize` ping
+  that advances the stored commit. Full re-verify (still writes only real diffs)
+  on: no stored commit, a rewritten/unreachable base, a `workflow_dispatch` run
+  (`SYNC_FORCE_FULL`), or `[full-sync]` in a commit message.
+- A removed `game.json` is **soft-deleted** in the DB (row kept for bound game
+  instances, hidden from the catalog; re-adding the file restores it).
+- Per-console scratch tooling (`list.py`, `parse_raw.py`, `build_games.py`,
+  `raw.html`) is gitignored — it regenerates `game.json` files, it is not the
+  source of truth once a file is committed and hand-edited.
 - Per-console scratch tooling (`list.py`, `parse_raw.py`, `build_games.py`,
   `raw.html`) is gitignored — it regenerates `game.json` files, it is not the
   source of truth once a file is committed and hand-edited.

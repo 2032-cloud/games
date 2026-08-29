@@ -1,6 +1,6 @@
 # 2032 games data
 
-Source of truth for console/game metadata used by [2032](https://2032.cloud). Merges to `main` sync to the live database via [`.github/workflows/sync.yml`](.github/workflows/sync.yml), which runs [`sync.mjs`](sync.mjs).
+Source of truth for console/game metadata used by [2032](https://2032.cloud). Merges to `main` sync to the live database via [`.github/workflows/sync.yml`](.github/workflows/sync.yml), which runs [`sync.mjs`](sync.mjs). Only the consoles/games changed in a push are re-synced; put `[full-sync]` in a commit message to force a full re-sync.
 
 ## Layout
 
