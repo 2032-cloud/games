@@ -9,7 +9,7 @@ consoles/
   <console-slug>/
     console.json
     box_art.png     (required -- console fallback art)
-    icon.png        (optional -- console fallback icon)
+    icon.png        (required -- console fallback icon)
     games/
       <game-slug>/
         game.json
@@ -62,10 +62,10 @@ Slugs must be lowercase kebab-case (`^[a-z0-9]+(-[a-z0-9]+)*$`).
 ## Required files
 
 - `box_art.png` (600x800), under `consoles/<console-slug>/` - the console's fallback art, used by any of its games without their own, and by custom (unlinked) games. Not enforced by sync -- a missing one just serves the placeholder below
+- `icon.png` (256x256) / `box_art.png` (600x800), under `games/<game-slug>/` - falls back to IGDB cover art (box art only) then the console's art
 
 ## Optional files
 
-- `icon.png` (256x256) / `box_art.png` (600x800), under `games/<game-slug>/` - falls back to IGDB cover art (box art only) then the console's art
 - `icon.png` (256x256), under `consoles/<console-slug>/` - console fallback icon (no IGDB equivalent for icons)
 - `process.js` - extracts info (playtime, completion, currency, etc.) from an uploaded save. Takes the save's bytes as a `Uint8Array`, returns whatever it finds. No imports/requires, self-contained, read-only. (WIP)
 
