@@ -1,7 +1,7 @@
 {
 	"titles": [
 		{ "name": "マザー3", "region": "JPN", "language": "ja" },
-		{ "name": "Mother 3", "language": "en" }
+		{ "name": "Mother 3", "region": "USA", "language": "en" }
 	],
 	"native_region": "JPN",
 	"description": "A 2006 role-playing video game developed by Brownie Brown and HAL Laboratory and published by Nintendo for the Game Boy Advance. It is the third and final entry in the Mother series. The game follows Lucas, a young boy with psychic abilities, and a party of characters as they attempt to prevent a mysterious invading army from corrupting and destroying the world.",
