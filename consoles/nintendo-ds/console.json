@@ -1,0 +1,11 @@
+{
+    "name": "Nintendo DS",
+    "description": "Nintendo's dual-screen handheld, successor to the Game Boy Advance",
+    "valid_save_sizes": [
+        512,
+        8192,
+        65536,
+        262144,
+        524288
+    ]
+}

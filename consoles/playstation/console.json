@@ -1,0 +1,8 @@
+{
+    "name": "PlayStation",
+    "description": "Sony's first console, using block-based memory cards for saves",
+    "valid_save_sizes": [
+        8192,
+        131072
+    ]
+}

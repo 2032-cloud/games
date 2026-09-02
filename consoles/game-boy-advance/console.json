@@ -1,11 +1,11 @@
 {
-	"name": "Game Boy Advance",
-	"description": "A handheld game console developed and marketed by Nintendo",
-	"valid_save_sizes": [
-		512,
-		8192,
-		32768,
-		65536,
-		131072
-	]
+    "name": "Game Boy Advance",
+    "description": "Nintendo's 32-bit handheld, successor to the Game Boy Color",
+    "valid_save_sizes": [
+        512,
+        8192,
+        32768,
+        65536,
+        131072
+    ]
 }

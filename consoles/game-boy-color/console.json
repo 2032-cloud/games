@@ -1,0 +1,9 @@
+{
+    "name": "Game Boy Color",
+    "description": "Color successor to the original Game Boy, backwards compatible",
+    "valid_save_sizes": [
+        2048,
+        8192,
+        32768
+    ]
+}

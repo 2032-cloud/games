@@ -1,0 +1,7 @@
+{
+    "name": "Neo Geo Pocket Color",
+    "description": "SNK's handheld with a color screen, successor to the Neo Geo Pocket",
+    "valid_save_sizes": [
+        8192
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Game Boy",
+    "description": "Nintendo's original 8-bit handheld console",
+    "valid_save_sizes": [
+        2048,
+        8192,
+        32768
+    ]
+}

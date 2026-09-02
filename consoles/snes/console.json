@@ -1,0 +1,9 @@
+{
+    "name": "Super Nintendo Entertainment System",
+    "description": "Nintendo's 16-bit successor to the NES",
+    "valid_save_sizes": [
+        2048,
+        8192,
+        32768
+    ]
+}

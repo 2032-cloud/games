@@ -1,0 +1,7 @@
+{
+    "name": "PlayStation 2",
+    "description": "Sony's best-selling console, backwards compatible with the original PlayStation",
+    "valid_save_sizes": [
+        8388608
+    ]
+}

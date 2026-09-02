@@ -1,0 +1,8 @@
+{
+    "name": "Sega Saturn",
+    "description": "Sega's 32-bit console with internal and cartridge-based backup memory",
+    "valid_save_sizes": [
+        32768,
+        1048576
+    ]
+}

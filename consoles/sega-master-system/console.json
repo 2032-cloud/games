@@ -1,0 +1,8 @@
+{
+    "name": "Sega Master System",
+    "description": "Sega's 8-bit home console predating the Genesis",
+    "valid_save_sizes": [
+        8192,
+        32768
+    ]
+}

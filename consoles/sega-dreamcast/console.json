@@ -1,0 +1,7 @@
+{
+    "name": "Sega Dreamcast",
+    "description": "Sega's final console, using the VMU for portable save storage",
+    "valid_save_sizes": [
+        131072
+    ]
+}

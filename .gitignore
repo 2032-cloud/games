@@ -2,3 +2,4 @@
 **/*.html
 **/*.py
 **/tmp.json
+workdir

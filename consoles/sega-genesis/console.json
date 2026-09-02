@@ -1,0 +1,8 @@
+{
+    "name": "Sega Genesis",
+    "description": "Sega's 16-bit console, known as the Mega Drive outside North America",
+    "valid_save_sizes": [
+        8192,
+        32768
+    ]
+}

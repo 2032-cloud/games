@@ -1,0 +1,7 @@
+{
+    "name": "Sega Game Gear",
+    "description": "Sega's 8-bit handheld competitor to the Game Boy",
+    "valid_save_sizes": [
+        8192
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Nintendo Entertainment System",
+    "description": "Nintendo's 8-bit home console that revived the US game industry",
+    "valid_save_sizes": [
+        2048,
+        8192,
+        32768
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Nintendo 64",
+    "description": "Nintendo's 64-bit console known for cartridge-based 3D games",
+    "valid_save_sizes": [
+        512,
+        2048,
+        32768,
+        131072
+    ]
+}

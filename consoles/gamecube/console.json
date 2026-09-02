@@ -1,0 +1,10 @@
+{
+    "name": "GameCube",
+    "description": "Nintendo's disc-based console using removable memory cards for saves",
+    "valid_save_sizes": [
+        131072,
+        524288,
+        1048576,
+        2097152
+    ]
+}
